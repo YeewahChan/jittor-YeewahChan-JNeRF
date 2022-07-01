@@ -6,7 +6,7 @@ Jittor计图挑战热身赛代码仓库。队伍：风之炼金术士华华
 
 ## 简介
 
-本项目为第二届计图挑战赛热身赛的代码实现，就是把basline跑了一次，不知道为啥没跑出来官方的成绩
+本项目为第二届计图挑战赛热身赛的代码实现，由于队友摆烂，于是我就是把basline跑了一次，不知道为啥没跑出来官方的成绩
 
 ## 安装
 
@@ -33,4 +33,4 @@ Jittor计图挑战热身赛代码仓库。队伍：风之炼金术士华华
 * （可选）cuda >= 11.0
 
 
-此项目部分代码参考了 [JNeRF](https://github.com/Jittor/JNeRF)。 同时本README.md部分参考了[参考连接](https://www.gitlink.org.cn/jacker73/jittor-warmup/)
+此项目部分代码参考了 [JNeRF](https://github.com/Jittor/JNeRF)，按照官方步骤就能抛出我的成绩（大概第三十）。 同时本README.md部分参考了[参考连接](https://www.gitlink.org.cn/jacker73/jittor-warmup/)
